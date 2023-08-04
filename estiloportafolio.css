@@ -1,0 +1,38 @@
+body {
+background-image: url(fondo3.jpg);
+text-align: center;
+color: #D3D3D3;
+}
+#nombre{
+    color:#708090 ;
+    font-weight: 800;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+text-decoration: wavy;
+}
+h2.titulo{
+    color:#D3D3D3 ;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+text-decoration: wavy;
+font-style: calc();
+}
+#foto {
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+p.presentacion{
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+table.tablaedu{
+    text-align: center;
+background-color: rgba(52, 52, 245, 0.692);
+display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+padding: 10px;
+}
+th, td {
+    border: 2px solid rgba(49, 48, 48, 0.89); 
+    padding: 10px; 
+  }
